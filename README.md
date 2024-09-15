@@ -1,10 +1,6 @@
 <h1 align="center">Hi 🤙, I'm Shalev Kichli 😁</h1>
 <h3 align="center">Im a computer science student who really likes creating various programming projects</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wdmaster235&label=Profile%20views&color=0e75b6&style=flat" alt="wdmaster235" /> </p>
-
-
-
 - 🔭 I’m currently working on **a data structures library for C#**
 
 - 📫 How to reach me **shalevikichli@gmail.com**
