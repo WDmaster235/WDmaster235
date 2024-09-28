@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/garay lemonade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="garay lemonade" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/garay lemonade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="garay lemonade" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/garay lemonade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="garay lemonade" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shalom kichli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shalom kichli" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/WD_master" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shalom kichli" height="30" width="40" /></a>
 <a href="https://discord.gg/wd_maser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wd_maser" height="30" width="40" /></a>
 </p>
 
